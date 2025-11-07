@@ -4,7 +4,7 @@ ________________________________________
 Daftar Anggota Kelompok 16
 221110108 - Jocelyn
 221112816 - Maesi Sarah Natasia Br. Simanjuntak
-Link URL : https://mikroskilacid-my.sharepoint.com/:f:/g/personal/221110108_students_mikroskil_ac_id/Eg8PfS_h2U1KuEJO4XOlyqwB4XWKWoukrmC6FXn3OlST9w?e=hqNl4E
+Link URL : https://mikroskilacid-my.sharepoint.com/:f:/g/personal/221110108_students_mikroskil_ac_id/Eg8PfS_h2U1KuEJO4XOlyqwB4XWKWoukrmC6FXn3OlST9w?e=0iw6ik
 Petunjuk Penggunaan Aplikasi:
 1.	Buka Link URL dan download file APK nya  dengan catatan harus menggunakan mobile karena aplikasinya hanya bisa digunakan dalam mobile  
 2.	Buka aplikasi yang telah didownload 
@@ -116,4 +116,4 @@ install.bat berguna untuk menyiapkan library TFLite native di Android.
 
 Labels disesuaikan dengan dataset penyakit tanaman yang digunakan.
 
-trainingmodel-konversiTFLite.ipynb - Colab
+https://colab.research.google.com/drive/19i2XGIO7CP9NFHg6UuCn7ipPyS8ACzPE
