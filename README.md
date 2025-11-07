@@ -1,6 +1,6 @@
 Aplikasi Deteksi Penyakit Tanaman
 Proyek ini adalah aplikasi berbasis Flutter untuk mendeteksi berbagai penyakit tanaman menggunakan YOLOv8 yang dikonversi ke TensorFlow Lite (TFLite). Proyek ini dibuat untuk tugas kuliah.
-________________________________________
+________________________________________________________________________________________________________________________________________________________________________________
 Daftar Anggota Kelompok 16
 221110108 - Jocelyn
 221112816 - Maesi Sarah Natasia Br. Simanjuntak
@@ -11,7 +11,8 @@ Petunjuk Penggunaan Aplikasi:
 3.	Ambil gambar tanaman yang memiliki penyakit dari Pilih dari Galeri
 4.	Muncul hasil deteksi penyakit tanamannya 
 5.	Pilih Lihat  Diagnosis jika ingin mengetahui gejala penyakit dan solusi untuk mengatasinya
- 
+
+______________________________________________________________________________________________________________________________________________________________________________ 
 1. Tahap Training Data di Google Colab
 Install Library
 !pip install ultralytics
